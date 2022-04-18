@@ -2,8 +2,9 @@
 
 # The script is for patching an app with user notification before starting. Parameter 4 is the name of the
 # app to be patched, parameter 5 is the name of the app process, parameter 6 is the policy trigger name to
-# install the app. The script is relatively basic and can't currently kill more than one process or patch
-# more than one app. This is a forced update that does not allow deferral.
+# install the app and parameter 7 is the number of seconds for the countdown timer. The script is relatively 
+# basic and can't currently kill more than one process or patch more than one app. This is a forced update 
+# that does not allow deferral.
 # Version 1.0
 # Created 04-18-2022 by Michael Permann
 # Updated 
